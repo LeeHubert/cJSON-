@@ -1,0 +1,6 @@
+[submodule "cJSON"]
+	path = cJSON
+	url = https://github.com/DaveGamble/cJSON.git
+[submodule "MemoryPool"]
+	path = MemoryPool
+	url = https://github.com/userpro/MemoryPool.git
